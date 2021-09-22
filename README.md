@@ -1,4 +1,6 @@
 # ignite-templates-desafio03
+Trilha ReactJS - Chapter II
+
 Nesse desafio, criar uma aplicação para treinar o que aprendeu até agora no ReactJS
 
 Essa será uma aplicação onde o seu principal objetivo é criar um hook de carrinho de compras. 
